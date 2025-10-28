@@ -4,6 +4,8 @@
 
 The complex NASA API project uses data from NASA's around 400 facilities API to display information about all NASA centers across the US. The name, location, and curren weather of those locations are displayed in the DOM (Facility Name - City, State. Current  Weather: Description and Temperature in Fahrenheit). The program uses the OpenWeatherMap API to retrieve real-time weather data for each facility by using its latitude and longitude.
 
+Find the live demo at https://ishelvirakeira.github.io/complex-nasa-bootcamp/
+
 <img width="745" height="430" alt="Nasa facilities" src="https://github.com/user-attachments/assets/0825f646-08e5-4d52-93b4-83f6ce57af6a" />
 
 
